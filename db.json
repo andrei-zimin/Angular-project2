@@ -1,0 +1,115 @@
+{
+  "volga": [
+    {
+      "id": 1,
+      "users": [
+        {
+          "user": 1,
+          "login": "cherp@ya.ru",
+          "pass": "123123"
+        },
+        {
+          "user": 2,
+          "login": "cher@ya.ru",
+          "pass": "123123"
+        }
+      ],
+      "events": [
+        {
+          "id": 211264,
+          "imp": true,
+          "email": "cherp@ya.ru",
+          "event": 1,
+          "name": "Практика",
+          "days": [
+            "30.12.2020"
+          ]
+        },
+        {
+          "id": 103885,
+          "imp": false,
+          "email": "cher@ya.ru",
+          "event": 2,
+          "name": "Лекция",
+          "days": [
+            "29.12.2020"
+          ]
+        },
+        {
+          "id": 995290,
+          "imp": false,
+          "email": "cher@ya.ru",
+          "event": 3,
+          "name": "Новый год скоро",
+          "days": [
+            "23.12.2020"
+          ]
+        },
+        {
+          "id": 142072,
+          "imp": false,
+          "email": "cher@ya.ru",
+          "event": 4,
+          "name": "Новый год",
+          "days": [
+            "31.12.2020"
+          ]
+        },
+        {
+          "id": 163163,
+          "imp": false,
+          "email": "cher@ya.ru",
+          "event": 5,
+          "name": "Сессия",
+          "days": [
+            "15.01.2021"
+          ]
+        },
+        {
+          "id": 253869,
+          "imp": false,
+          "email": "cher@ya.ru",
+          "event": 6,
+          "name": "Экзамен",
+          "days": [
+            "17.01.2021"
+          ]
+        },
+        {
+          "id": 119277,
+          "imp": false,
+          "email": "cher@ya.ru",
+          "event": 7,
+          "name": "Последний экзамен",
+          "days": [
+            "27.01.2021"
+          ]
+        },
+        {
+          "id": 766478,
+          "imp": false,
+          "email": "cher@ya.ru",
+          "event": 8,
+          "name": "Лекция дистанционно ",
+          "days": [
+            "30.12.2020"
+          ]
+        }
+      ]
+    }
+  ],
+  "sibir": [
+    {
+      "id": 1,
+      "users": [],
+      "events": []
+    }
+  ],
+  "korporativni_centr": [
+    {
+      "id": 1,
+      "users": [],
+      "events": []
+    }
+  ]
+}
